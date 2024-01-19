@@ -11,9 +11,6 @@ Semantically organized database
 The recipes in our database are normalized and can be filtered in the search by calorie and diet preferences.
 Full nutrition for each recipe
 
-We have the most accurate automated nutrition analysis on the web powered by our proprietary Natural Language Processing (NLP) engine. Customers get detailed nutrition breakdown of each recipe with 25+ nutrients and appropriateness for all major diets.
+Customers get detailed nutrition breakdown of each recipe with 25+ nutrients and appropriateness for all major diets.
 Filter by calories, diet or allergy restrictions
 
-Edamam has developed over 35 diet and health filters for your customers to use. Now you can develop applications for virtually any popular diet or major health condition.
-Recipe caching
-Edamam may allow caching for those customer on custom plans.
